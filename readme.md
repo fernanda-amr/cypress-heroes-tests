@@ -16,12 +16,10 @@ This project contains automated end-to-end tests developed using Cypress.
 ```bash
 git clone https://github.com/fernanda-amr/cypress-heroes-tests.git
 ```
-
 2.Install dependencies:
 ```bash
 npm install
 ```
-
 3. Run Cypress Test Runner:
 ```bash
 npx cypress run
