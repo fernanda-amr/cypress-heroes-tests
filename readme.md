@@ -20,9 +20,20 @@ git clone https://github.com/fernanda-amr/cypress-heroes-tests.git
 ```bash
 npm install
 ```
-3. Run Cypress Test Runner:
+
+3. Set up (databases and such):
+```sh
+npm run setup
+```
+
+4. To launch the app for development, run:
+```sh
+npm run dev
+```
+
+5. Open Cypress Test:
 ```bash
-npx cypress run
+npx cypress open
 ```
 
 # Original README
